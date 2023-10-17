@@ -1,0 +1,30 @@
+let allChats = ([
+
+{from:"Bharat Sati",
+to: "Mom",
+msg : "Hello Mom how are you?",
+created_at: new Date(),
+},
+   
+{from:"Rahul",
+to: "Aman",
+msg : "Hello Aman",
+created_at: new Date(),
+} ,
+  
+{from:"Nikhi",
+to: "Steve",
+msg : "Hello Steve",
+created_at: new Date(),
+} ,
+  
+{from:"Amit",
+to: "Mohit Sati",
+msg : "Hello Viiii",
+created_at: new Date(),
+} 
+  
+
+
+])
+    

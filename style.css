@@ -1,0 +1,52 @@
+*{
+
+margin-left: 10px;
+
+font-family: cursive;
+
+}
+
+
+
+
+
+.chat{
+
+
+background-color: rgb(104, 193, 193);
+border-radius: 15px;
+display: inline-block;
+padding: 10px;
+
+}
+
+.msg{
+
+background-color: rgb(40, 17, 174);
+color: wheat;
+padding: 10px;
+border-radius: 15px;
+/* border: 2px solid black; */
+
+}
+
+.top-head{
+
+display: flex;
+justify-content: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
